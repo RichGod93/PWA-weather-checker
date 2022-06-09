@@ -1,5 +1,6 @@
 # About the app
 This PWA is used to check the live weather conditions of countries and states.
+To see what it looks like, open [https://weather-checker-1c489b.netlify.app/](https://weather-checker-1c489b.netlify.app/).
 
 # Getting Started with Create React App
 
