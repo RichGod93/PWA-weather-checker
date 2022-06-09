@@ -1,3 +1,6 @@
+### About the app
+This PWA is used to check the live weather conditions of countries and states.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
