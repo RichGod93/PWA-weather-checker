@@ -2,6 +2,12 @@
 This PWA is used to check the live weather conditions of countries and states.
 To see what it looks like, open [https://weather-checker-1c489b.netlify.app/](https://weather-checker-1c489b.netlify.app/).
 
+# Starting up this PWA weather checker
+If you wish to run the code locally on your computer, run:
+### `npm install`
+
+This will install all the dependencies needed to run the application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
